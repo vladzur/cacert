@@ -1,0 +1,14 @@
+{
+  "name": "vladzur/cacert",
+  "description": "Simple CACERT",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "vladzur",
+      "email": "vladzur@gmail.com"
+    }
+  ],
+  "require": {
+    "vladzur/cifrador": ">=1.0.0"
+  }
+}
