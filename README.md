@@ -1,4 +1,5 @@
 # Cacert
+(Project abandoned)
 Cacert is used to generate self-signed certificates.
 
 You can generate the certificate of the certification authority and generate new certificates with that signature
